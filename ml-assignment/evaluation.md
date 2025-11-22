@@ -31,4 +31,5 @@ This should include:
 
 * All tests passed (`python -m pytest tests/test_ngram.py`).
 
+<img width="1472" height="302" alt="Screenshot 2025-11-22 142456" src="https://github.com/user-attachments/assets/a20ba552-a340-4457-96eb-45df960e0d98" />
 
